@@ -1,0 +1,1 @@
+https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation/blob/master/MDN-LSTM-Regression.ipynb
