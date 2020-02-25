@@ -1,2 +1,4 @@
 # MarketPrediction
-Make stock market prediction using Machine Learning models and Sentiment Analysis
+Making stock market prediction using real stock market data and Recurrent Neural Networks.
+
+
